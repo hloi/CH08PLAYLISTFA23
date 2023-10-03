@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CH08PLAYLISTFA23",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CH08PLAYLISTFA23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CH08PLAYLISTFA23-Debug-d5e19002175aa85b08c4.json",
+					"name" : "CH08PLAYLISTFA23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unittest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unittest-Debug-7cbb69ef68d65321414f.json",
+					"name" : "unittest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hloi/CLionProjects/CSC109/CH08PLAYLISTFA23/cmake-build-debug",
+		"source" : "C:/Users/hloi/CLionProjects/CSC109/CH08PLAYLISTFA23"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
